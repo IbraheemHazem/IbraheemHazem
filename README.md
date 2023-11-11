@@ -23,6 +23,7 @@ I'm always eager to connect with fellow developers, share insights, and possibly
 This is just the beginning, and I'm committed to continuous learning and growth. If you have any advice or experiences to share from your own journey, I'd love to hear them!
 - ⚡ Fun Fact: My best code seems to come to life after midnight. There's something magical about the quiet hum of the computer and the glow of the screen that fuels my late-night coding sessions.
 
+- 📫 You can reach me on hemaelnafy@gmail.com
 
 
 ### Connect with Me :
