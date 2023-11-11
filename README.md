@@ -11,9 +11,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software developer specializing in front-end.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 🏢 I'm a Tech-savvy Software developer specializing in front-end.
+- Delving into HTML, CSS, and JavaScript.
+- Experimenting with [React Js].
+- Building projects to solidify my understanding.
+
+🤝 Open to Collaboration:
+I'm always eager to connect with fellow developers, share insights, and possibly collaborate on exciting projects. If you have any tips, resources, or just want to chat about coding, feel free to reach out!
+
+🌱 Continuous Learning:
+This is just the beginning, and I'm committed to continuous learning and growth. If you have any advice or experiences to share from your own journey, I'd love to hear them!
 - ⚡ Fun Fact: My best code seems to come to life after midnight. There's something magical about the quiet hum of the computer and the glow of the screen that fuels my late-night coding sessions.
 
 
