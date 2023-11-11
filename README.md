@@ -29,7 +29,7 @@ This is just the beginning, and I'm committed to continuous learning and growth.
 
 <a href="https://www.linkedin.com/in/ibrahim-hazem-5b2404297/" target="_blank"><img src="https://img.shields.io/badge/-Ibraheem%20Hazem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Ibrahimhazem14" target="_blank"><img src="https://img.shields.io/badge/-Ibraheem%20Hazem-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Ibraheem%20Hazem-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com" target="_blank"><img src="https://img.shields.io/badge/-Ibraheem%20Hazem-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
